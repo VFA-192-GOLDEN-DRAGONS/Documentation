@@ -37,7 +37,7 @@ Before you can connect to the One Actual mod repository and start downloading mo
 	- This is where all the mods will be downloaded and stored.
 3. Click **Next**
 
-![Modding Hub Creation](omm1.png)
+![Modding Hub Creation](img/omm1.png)
 
 ##### STEP 3: Create a new "Channel"
 > A "channel" refers to a specific location where mods will be installed. We'll need to create a channel that points to the DCS Saved Games folder, which is where we need to install our mods. You can name the channel anything you want, but the channel's "target path" must be set correctly.
@@ -52,7 +52,7 @@ Before you can connect to the One Actual mod repository and start downloading mo
 
 4. Click **Finish**
 
-![Channel Creation](omm2.png)
+![Channel Creation](img/omm2.png)
 
 ##### STEP 4: Connect to the One Actual mod repository
 > One Actual makes our mods available for download at our website. We need to configure OMM to look for our mods manifest so it can retrieve the list of mods available for download.
@@ -62,7 +62,7 @@ Before you can connect to the One Actual mod repository and start downloading mo
 2. Add a new repository by clicking on the small `|+|` button on the right side of the repositories window.
 	> The "New Repository" window will appear.
 
-![Add Repository](omm3a.png)
+![Add Repository](img/omm3a.png)
 
 3. Enter One Actual's **Repository address**
 	- **URL**: `http://one-actual.com/mods`
@@ -74,7 +74,7 @@ Before you can connect to the One Actual mod repository and start downloading mo
 5. If you get the message "_The Repository appears to be valid!_", then click the **OK** button.
 	> The One Actual mods repo is now configured and you can check for updates.
 
-![New Repository](omm3b.png)
+![New Repository](img/omm3b.png)
 
 ##### STEP 5: Done with initial setup
 > The initial setup of OMM is now complete, and shouldn't have repeat these steps ever again.
@@ -96,15 +96,15 @@ Before you can connect to the One Actual mod repository and start downloading mo
 
 2. OMM should download our mods list and show you all the mods available for download.
 
-![New Repository](omm4b.png)
+![New Repository](img/omm4b.png)
 
 **Status Symbols:**
 
-![A new mod, ready for download](omm-dl-new.png)
+![A new mod, ready for download](img/omm-dl-new.png)
 
-![A mod that has already been downloaded](omm-dl-done.png)
+![A mod that has already been downloaded](img/omm-dl-done.png)
 
-![A mod that has an update available](omm-dl-upd.png)
+![A mod that has an update available](img/omm-dl-upd.png)
 
 ##### STEP 2: Download Mods
 1. Double click a mod to download it.
