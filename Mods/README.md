@@ -80,7 +80,7 @@ Before you can connect to the One Actual mod repository and start downloading mo
 ##### STEP 5: Done with initial setup
 > The initial setup of OMM is now complete, and shouldn't have repeat these steps ever again.
 
-- You can proceed to [downloading and install](#downloadingandinstallingmods) the mods.
+- You can proceed to [downloading and installing](#downloading-and-installing-mods) the mods.
 
 
 ---
