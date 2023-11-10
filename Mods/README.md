@@ -1,4 +1,4 @@
-![](oa-logo.png)
+![](img/oa-logo.png)
 # One Actual Mods
 
 [Open Mod Manager](https://github.com/sedenion/OpenModMan) is a tool that allows you to manage downloading, installing, and uninstalling mods for any game or program. It is the successor to OvGME and is a lot more flexible and powerful. It is free and open source.
