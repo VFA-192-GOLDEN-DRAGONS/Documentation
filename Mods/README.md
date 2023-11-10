@@ -3,9 +3,10 @@
 
 [Open Mod Manager](https://github.com/sedenion/OpenModMan) is a tool that allows you to manage downloading, installing, and uninstalling mods for any game or program. It is the successor to OvGME and is a lot more flexible and powerful. It is free and open source.
 
-* [Initial Setup](#initialsetup)
-* [Downloading and Installing Mods](#downloadingandinstallingmods)
-* [Advanced OMM Features](#advancedommfeatures)
+* [Download OMM](#omm-download-link)
+* [Initial Setup](#initial-setup)
+* [Downloading and Installing Mods](#downloading-and-installing-mods)
+* [Advanced OMM Features](#advanced-omm-features)
 
 
 ### OMM Download Link
