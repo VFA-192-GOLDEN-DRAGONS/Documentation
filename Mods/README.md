@@ -100,11 +100,17 @@ Before you can connect to the One Actual mod repository and start downloading mo
 
 **Status Symbols:**
 
-![A new mod, ready for download](img/omm-dl-new.png)
+- A new mod, ready for download:
 
-![A mod that has already been downloaded](img/omm-dl-done.png)
+	![A new mod, ready for download](img/omm-dl-new.png)
 
-![A mod that has an update available](img/omm-dl-upd.png)
+- A mod that has already been downloaded:
+
+	![A mod that has already been downloaded](img/omm-dl-done.png)
+
+- A mod that has an update available:
+
+	![A mod that has an update available](img/omm-dl-upd.png)
 
 ##### STEP 2: Download Mods
 1. Double click a mod to download it.
