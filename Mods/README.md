@@ -17,6 +17,21 @@ Download the latest release of OMM from the link below, and install it.
 
 ---
 
+## OMM Repository URLs
+Listed below are the URLs for One Actual's OMM repos. [Detailed instructions below](#step-4-connect-to-the-one-actual-mod-repository)
+
+| Repository | Base address                 | Name      |
+| ---------- | ---------------------------- | --------- |
+| Default    | `http://one-actual.com/mods` | `default` |
+| Legacy     | `http://one-actual.com/mods` | `legacy`  |
+| Extras     | `http://one-actual.com/mods` | `extras`  |
+
+* The "Default" repository is required by default for all of One Actual's missions.
+* The "Legacy" repository is required for some of our older missions and training environments. The mods included in this repo haven't been updated by their authors in a while, and will not be included or required for new missions.
+* The "Extras" repository is purely optional, and contains mods that are just "for fun." You are *not* required to add this repo, nor are you required to download/install any of these mods.
+
+---
+
 ## Initial Setup
 
 Before you can connect to the One Actual mod repository and start downloading mods, you'll need to perform a few one-time, initial setup tasks in OMM.
