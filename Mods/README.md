@@ -22,9 +22,9 @@ Listed below are the URLs for One Actual's OMM repos. [Detailed instructions bel
 
 | Repository | Base address                 | Name      |
 | ---------- | ---------------------------- | --------- |
-| Default    | `http://one-actual.com/mods` | `default` |
-| Legacy     | `http://one-actual.com/mods` | `legacy`  |
-| Extras     | `http://one-actual.com/mods` | `extras`  |
+| Default    | `https://one-actual.com/mods` | `default` |
+| Legacy     | `https://one-actual.com/mods` | `legacy`  |
+| Extras     | `https://one-actual.com/mods` | `extras`  |
 
 * The "Default" repository is required by default for all of One Actual's missions.
 * The "Legacy" repository is required for some of our older missions and training environments. The mods included in this repo haven't been updated by their authors in a while, and will not be included or required for new missions.
